@@ -57,7 +57,7 @@ body {
     font-weight: 400;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1440px) {
     body {
         height: 124vh;
         width: 108vw;
