@@ -18,9 +18,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 * Desktop view
-![desktop](./images/s1png.png)
+![desktop](./images/s1.png)
 * Mobile view
-![desktop](./images/S2.png)
+![mobile](./images/s2.png)
 
 
 ### Links
