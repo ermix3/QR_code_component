@@ -53,13 +53,6 @@ body {
 
 .code-body p {
     color: var(--color-Grayish-blue);
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 400;
-}
-
-@media screen and (min-width: 1440px) {
-    body {
-        height: 124vh;
-        width: 108vw;
-    }
 }

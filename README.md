@@ -1,10 +1,10 @@
-# Frontend Mentor - QR code component solution
+# QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+` challenge from {Frontend Mentor} to improve coding skills by building realistic projects. `
 
 ## Table of contents
 
-- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+- [QR code component solution](#qr-code-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
@@ -19,17 +19,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 * Desktop view
 ![desktop](./images/s1.png)
+
 * Mobile view
 ![mobile](./images/s2.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ermix3/QR_code_component)
-- Live Site URL: [Add live site URL here](https://ermix-qr-code.netlify.app/)
+- Solution URL: [Descover Solution Repo.](https://github.com/ermix3/QR_code_component)
+- Live Site URL: [Go Live Here](https://ermix-qr-code.netlify.app/)
 
 ## My process
-
+first create html and css files.
+after i do html structure, then the big work is with css. 
 ### Built with
 
 - Semantic HTML5 markup
